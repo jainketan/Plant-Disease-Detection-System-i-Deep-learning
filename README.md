@@ -1,4 +1,18 @@
-import streamlit as st 
+>Welcome to the presentation on the Plant Disease Detection System.
+
+>In this presentation, we will discuss the importance of detecting plant diseases early and introduce a system aimed at automating this process.
+
+>Plant diseases can have devastating effects on agricultural productivity, leading to significant economic losses and food security concerns.
+
+>Traditional methods of disease detection are often time-consuming, labor-intensive, and prone to human error.
+
+>The Plant Disease Detection System offers a solution by leveraging technology to accurately and efficiently identify diseases in plantsimport streamlit as st 
+
+
+
+
+
+
 import pandas as pd 
 import tensorflow as tf
 import numpy as np
